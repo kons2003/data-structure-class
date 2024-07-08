@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/KruskalMST/Edge.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/KruskalMST/KruskalMST.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/KruskalMST/UnionFind.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/KruskalMST/main.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/PrimMST/Edge.java" charset="x-windows-949" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
